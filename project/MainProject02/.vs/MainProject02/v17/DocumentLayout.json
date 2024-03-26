@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\project\\MainProject02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A8BBFCC-15DE-411C-84F1-26BCC063C563}|MainProject02\\MainProject02.vcxproj|C:\\Sources\\embedded-system-2024\\project\\MainProject02\\MainProject02\\LinkedlistMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9A8BBFCC-15DE-411C-84F1-26BCC063C563}|MainProject02\\MainProject02.vcxproj|solutionrelative:MainProject02\\LinkedlistMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A8BBFCC-15DE-411C-84F1-26BCC063C563}|MainProject02\\MainProject02.vcxproj|C:\\Sources\\embedded-system-2024\\project\\MainProject02\\MainProject02\\LinkedlistBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9A8BBFCC-15DE-411C-84F1-26BCC063C563}|MainProject02\\MainProject02.vcxproj|solutionrelative:MainProject02\\LinkedlistBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Sources\\embedded-system-2024\\project\\MainProject02\\MainProject02\\LinkedlistBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainProject02\\LinkedlistBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LinkedlistBook.h",
               "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\project\\MainProject02\\MainProject02\\LinkedlistBook.h",
               "RelativeDocumentMoniker": "MainProject02\\LinkedlistBook.h",
@@ -31,19 +27,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-22T01:08:28.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LinkedlistMain.c",
-              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\project\\MainProject02\\MainProject02\\LinkedlistMain.c",
-              "RelativeDocumentMoniker": "MainProject02\\LinkedlistMain.c",
-              "ToolTip": "C:\\Sources\\embedded-system-2024\\project\\MainProject02\\MainProject02\\LinkedlistMain.c",
-              "RelativeToolTip": "MainProject02\\LinkedlistMain.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-22T00:42:33.118Z",
               "EditorCaption": ""
             }
           ]
